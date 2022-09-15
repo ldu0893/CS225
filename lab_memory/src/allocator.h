@@ -25,8 +25,11 @@ class Allocator
      */
     Allocator(const std::string& studentFile, const std::string& roomFile);
 
+<<<<<<< HEAD
     ~Allocator();
 
+=======
+>>>>>>> release/main
 
     /**
      * Calls the solving routine to allocate student letter

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
  * @file StickerSheet.h
  * Contains your declaration of the interface for the StickerSheet class.
@@ -33,3 +34,10 @@ class StickerSheet {
         bool checkCapacity();
         Sticker* findSticker(unsigned index);
 };
+=======
+/**
+ * @file StickerSheet.h
+ * Contains your declaration of the interface for the StickerSheet class.
+ */
+#pragma once
+>>>>>>> release/main
