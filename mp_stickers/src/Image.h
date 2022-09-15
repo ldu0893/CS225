@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
  * @file Image.h
  * Contains your declaration of the interface for the Image class.
@@ -26,3 +27,11 @@ class Image : public cs225::PNG {
         void down(double max);
         void fill(cs225::HSLAPixel* p, int a, int b, double w, double h);
 };
+=======
+/**
+ * @file Image.h
+ * Contains your declaration of the interface for the Image class.
+ */
+
+#pragma once
+>>>>>>> release/main

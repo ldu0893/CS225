@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "Image.h"
 #include "StickerSheet.h"
 
@@ -20,3 +21,16 @@ int main() {
   sheet.render().writeToFile("../myImage.png");
   return 0;
 }
+=======
+#include "Image.h"
+#include "StickerSheet.h"
+
+int main() {
+  //
+  // Reminder:
+  //   Before exiting main, save your creation to disk as myImage.png
+  //
+
+  return 0;
+}
+>>>>>>> release/main

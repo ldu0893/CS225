@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 # generated images
 lighten.png
 saturate.png
 scale2x.png
+=======
+# generated images
+lighten.png
+saturate.png
+scale2x.png
+>>>>>>> release/main
